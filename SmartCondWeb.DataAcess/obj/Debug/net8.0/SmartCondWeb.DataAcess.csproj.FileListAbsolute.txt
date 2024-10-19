@@ -1,0 +1,15 @@
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\bin\Debug\net8.0\SmartCondWeb.DataAcess.deps.json
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\bin\Debug\net8.0\SmartCondWeb.DataAcess.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\bin\Debug\net8.0\SmartCondWeb.DataAcess.pdb
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\bin\Debug\net8.0\SmartCondWeb.Domain.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\bin\Debug\net8.0\SmartCondWeb.Domain.pdb
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\SmartCondWeb.DataAcess.csproj.AssemblyReference.cache
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\SmartCondWeb.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\SmartCondWeb.DataAcess.AssemblyInfoInputs.cache
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\SmartCondWeb.DataAcess.AssemblyInfo.cs
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\SmartCondWeb.DataAcess.csproj.CoreCompileInputs.cache
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\SmartCon.210FF352.Up2Date
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\SmartCondWeb.DataAcess.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\refint\SmartCondWeb.DataAcess.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\SmartCondWeb.DataAcess.pdb
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\ref\SmartCondWeb.DataAcess.dll

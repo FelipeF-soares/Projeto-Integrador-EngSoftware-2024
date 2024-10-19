@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SmartCondWeb.DataAcess/1.0.0": {
+        "dependencies": {
+          "SmartCondWeb.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SmartCondWeb.DataAcess.dll": {}
+        }
+      },
+      "SmartCondWeb.Domain/1.0.0": {
+        "runtime": {
+          "SmartCondWeb.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartCondWeb.DataAcess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartCondWeb.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
