@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using SmartCondWeb.DataAcess.ContextPersist;
+using SmartCondWeb.DataAcess.Persist;
+using SmartCondWeb.DataAcess.Persist.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +12,11 @@ builder.Services.AddDbContext<SmartCondContext>
     (
         options => options.UseMySql(stringConnection,ServerVersion.AutoDetect(stringConnection))
     );
+builder.Services.AddScoped<IHomeownerPersist,HomeownerPersist>();
+builder.Services.AddScoped<IPetPersist,PetPersist>();
+builder.Services.AddScoped<IResidentPersist,ResidentPersist>();
+builder.Services.AddScoped<IUnitPersist,UnitPersist>();
+builder.Services.AddScoped<IVehiclePersist,VehiclePersist>();
 
 var app = builder.Build();
 

@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\2.Projetos\\SmartCondWeb\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1EF3C4F-AA4F-4E65-8EF8-48E4A65121CA}|SmartCondWeb\\SmartCondWeb.csproj|d:\\2.projetos\\smartcondweb\\smartcondweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1EF3C4F-AA4F-4E65-8EF8-48E4A65121CA}|SmartCondWeb\\SmartCondWeb.csproj|solutionrelative:smartcondweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2.Projetos\\SmartCondWeb\\SmartCondWeb\\Program.cs",
+              "RelativeDocumentMoniker": "SmartCondWeb\\Program.cs",
+              "ToolTip": "D:\\2.Projetos\\SmartCondWeb\\SmartCondWeb\\Program.cs",
+              "RelativeToolTip": "SmartCondWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:21:13.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
