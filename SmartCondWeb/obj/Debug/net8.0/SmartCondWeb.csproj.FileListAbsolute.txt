@@ -229,3 +229,14 @@ D:\2.Projetos\SmartCondWeb\SmartCondWeb\bin\Debug\net8.0\SmartCondWeb.Domain.pdb
 D:\2.Projetos\SmartCondWeb\SmartCondWeb\obj\Debug\net8.0\SmartCondWeb.csproj.AssemblyReference.cache
 D:\2.Projetos\SmartCondWeb\SmartCondWeb\obj\Debug\net8.0\SmartCon.DED41F9B.Up2Date
 D:\2.Projetos\SmartCondWeb\SmartCondWeb\obj\Debug\net8.0\scopedcss\Areas\User\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\2.Projetos\SmartCondWeb\SmartCondWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb\bin\Debug\net8.0\MySqlConnector.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb\obj\Debug\net8.0\SmartCondWeb.sourcelink.json

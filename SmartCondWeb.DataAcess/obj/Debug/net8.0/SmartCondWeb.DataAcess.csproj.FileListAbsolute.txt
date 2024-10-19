@@ -13,3 +13,6 @@ D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\SmartCondWeb.
 D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\refint\SmartCondWeb.DataAcess.dll
 D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\SmartCondWeb.DataAcess.pdb
 D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\ref\SmartCondWeb.DataAcess.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\bin\Debug\net8.0\SmartCondWeb.DataAcess.runtimeconfig.json
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\SmartCondWeb.DataAcess.sourcelink.json
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.DataAcess\obj\Debug\net8.0\SmartCondWeb.DataAcess.genruntimeconfig.cache

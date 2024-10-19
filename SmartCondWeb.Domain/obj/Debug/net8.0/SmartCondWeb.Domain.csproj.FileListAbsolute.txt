@@ -9,3 +9,4 @@ D:\2.Projetos\SmartCondWeb\SmartCondWeb.Domain\obj\Debug\net8.0\SmartCondWeb.Dom
 D:\2.Projetos\SmartCondWeb\SmartCondWeb.Domain\obj\Debug\net8.0\refint\SmartCondWeb.Domain.dll
 D:\2.Projetos\SmartCondWeb\SmartCondWeb.Domain\obj\Debug\net8.0\SmartCondWeb.Domain.pdb
 D:\2.Projetos\SmartCondWeb\SmartCondWeb.Domain\obj\Debug\net8.0\ref\SmartCondWeb.Domain.dll
+D:\2.Projetos\SmartCondWeb\SmartCondWeb.Domain\obj\Debug\net8.0\SmartCondWeb.Domain.sourcelink.json
